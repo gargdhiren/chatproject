@@ -7,8 +7,8 @@ This is a real time chat app where people with same chat room key can interact w
 
 ## Technologies Used
 
-**Frontend:** React, Axios, CSS  
-**Backend:** Node.js, Express
+**Frontend:** React, Axios, CSS, Socket.io
+**Backend:** Node.js, Express, Socket.io
 
 ## Working Screenshots
 ![WhatsApp Image 2023-08-06 at 15 55 45](https://github.com/gargdhiren/chatproject/assets/87688466/8dbb09b5-520d-4c26-8efa-61d7d69a1dc3)
